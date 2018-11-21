@@ -54,7 +54,7 @@ pearsonr_correlation()
 ```
 
 ### Tutorial
-[Link](https://gitlab.com/imda-dsl/intelligent-sensing-toolkit/blob/master/demo/Intelligent%20Sensing%20Toolkit%20Tutorial/Intelligent%20Sensing%20Toolkit%20Tutorial.md)
+[Link](https://gitlab.com/imda-dsl/intelligent-sensing-toolbox/blob/master/demo/Intelligent%20Sensing%20Toolkit%20Tutorial/Intelligent%20Sensing%20Toolbox%20Tutorial.md)
 
 ### References
 * https://github.com/robjhyndman/anomalous-acm
