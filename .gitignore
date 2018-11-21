@@ -1,0 +1,5 @@
+.spyproject/
+__pycache__
+isensing.egg-info
+dist
+build
